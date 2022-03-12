@@ -1,5 +1,5 @@
 # A title
-## a subtitel
+## a subtitle
 * an item
 * a second item
 
